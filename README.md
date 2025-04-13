@@ -138,7 +138,7 @@ A comprehensive analytics center providing:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
+
 cd digital-time-capsule
 ```
 
