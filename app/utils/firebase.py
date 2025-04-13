@@ -10,14 +10,15 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # Firebase configuration from the provided config
 FIREBASE_CONFIG = {
-  "apiKey": "AIzaSyC_dpnbVBu0z3Cjv0MNHum4sghwdoPz4DQ",
-  "authDomain": "digital-time-capsule-2e9a8.firebaseapp.com",
-  "projectId": "digital-time-capsule-2e9a8",
-  "storageBucket": "digital-time-capsule-2e9a8.firebasestorage.app",
-  "messagingSenderId": "840783608673",
-  "appId": "1:840783608673:web:4b3316e2839ffb3ca86320",
-  "measurementId": "G-JJ5XS9JRKQ"
+  "apiKey": "AIzaSyC***********************wdoPz4DQ",
+  "authDomain": "digital-time-capsule-****.firebaseapp.com",
+  "projectId": "digital-time-capsule-****",
+  "storageBucket": "digital-time-capsule-****.firebasestorage.app",
+  "messagingSenderId": "8407********",
+  "appId": "1:8407********:web:********************",
+  "measurementId": "G-**********"
 }
+
 
 class FirebaseManager:
     _instance = None
