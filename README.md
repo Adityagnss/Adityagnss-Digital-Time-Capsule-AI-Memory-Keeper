@@ -435,11 +435,11 @@ The Digital Time Capsule is designed with privacy as a core principle:
 
 ## 👥 Contributors
 
-- Your Name - Initial work and concept
+- G.ADITYA - Initial work and concept
 
 ## 📞 Contact
 
 For questions, suggestions, or collaboration opportunities, please reach out to:
-- Email: your.email@example.com
-- GitHub: [YourUsername](https://github.com/YourUsername)
+- Email: adityagnss@gmail.com
+
 # Adityagnss-Digital-Time-Capsule-AI-Memory-Keeper
